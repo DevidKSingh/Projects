@@ -1,4 +1,4 @@
 # Projects 
-I am a First year Btech student 
-These are my projects
- 
+I am a First year Btech student.
+<br>
+These are my projects.
